@@ -40,7 +40,7 @@ tonum = "+12170123456"      #Your cellphone number
 fromnum =  "+12170123456" #Your twilio number
 #A list of the CRNs of each class
 courses = [31423,36149,36782]
-waittime=60   #It checks every 60 seconds
+waittime=60*10   #It checks every 10 minutes
 
 
 
