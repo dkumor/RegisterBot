@@ -44,3 +44,7 @@ All of these settings are at the top of the python file.
 
 
 And no, this does not work on python 3.
+
+==============
+
+One quick thing for people who might want to use it for future semesters: I am graduating, so won't be updating the script. In order to use it for the fall semester, you will need to find the new value for "term_in=120141" within the script. The current number is for spring 2014. ctrl+F to find the exact line.
